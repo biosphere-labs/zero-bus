@@ -1,6 +1,8 @@
 # zer0-bus
 
-pattern matching service bus over local area networks 
+> **Status:** This project was built in 2018 as an experiment in zero-configuration P2P service bus communication over local area networks. It is not actively maintained but demonstrates the architectural approach to peer-to-peer pattern-matched messaging without a central broker.
+
+pattern matching service bus over local area networks
 
 - works without administration or configuration
 - Peers can join or leave the network at any time
